@@ -1,0 +1,2 @@
+This is a sample document. It contains some text for testing the summarization feature.
+The document discusses the importance of AI in modern applications and how it can process data efficiently.
